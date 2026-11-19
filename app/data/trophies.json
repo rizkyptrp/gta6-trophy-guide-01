@@ -1,392 +1,753 @@
 {
  "game": "Grand Theft Auto VI",
  "platform": "PlayStation 5",
- "list": "the official 55 trophies, 2026-11-18",
+ "list": "The official 55 trophies, as listed by Exophase and PSNProfiles, 18 November 2026",
+ "sources": [
+  "Exophase — GTA VI trophy list (names, descriptions, grades, hidden flags)",
+  "PSNProfiles — GTA VI trophy list (names, descriptions, grades, hidden flags)",
+  "Output Lag — GTA 6 Trophy List, 18 November 2026 (unlock methods, counts, missable warning)",
+  "Press-Start — GTA 6 trophy list, 18 November 2026 (names, descriptions, grades)",
+  "GTABase and PowerPyx, via EGamers — missable trophy flag for Positive Mental Attitude"
+ ],
+ "note": "Names and descriptions are shown exactly as PlayStation publishes them. Every guide below is written in my own words for this entry; where a place, count or method is given, its source is named beside it.",
  "trophies": [
   {
    "id": 1,
    "name": "Vice Got a Price!",
    "description": "Congratulations! You're a Leonida Legend.",
    "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
+   "hidden": false,
+   "kind": "platinum",
+   "missable": false,
+   "stage": 5,
+   "sources": ["Exophase", "PSNProfiles"],
+   "guide": "This is the last trophy you earn: it pops the moment the other 54 are done. There is no shortcut — work through the roadmap below, save the 100% completion grind for last, and the platinum lands with it. Source for the requirement: the official description itself, as listed by Exophase and PSNProfiles.",
+   "steps": ["Earn the other 54 trophies."]
   },
   {
    "id": 2,
    "name": "Just Like Paradise",
    "description": "Complete Gone Fishing.",
    "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "The opening mission, Gone Fishing, is the first thing you play, so this trophy cannot be missed — finish the mission and it pops. It is hidden on PlayStation until earned, which is why its name and the mission title are spoilers. Source: the official description (Exophase, PSNProfiles); Output Lag's walkthrough places Gone Fishing at the start of the story.",
+   "steps": ["Play the opening mission Gone Fishing to its end."]
   },
   {
    "id": 3,
    "name": "Paradise Lost",
    "description": "Complete Chapter 1.",
    "grade": "bronze",
-   "guide": "Finish Chapter 1."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Finish every story mission in Chapter 1 and this pops when the chapter closes — Output Lag notes chapter trophies can pop at the start of the next chapter rather than on the last cutscene, so do not worry if it is a beat late. Keep a manual save at the start of each chapter anyway: there is no mission replay, and that habit protects the one missable trophy later. Source: official description (Exophase, PSNProfiles); Output Lag on chapter saves and no mission replay.",
+   "steps": ["Finish all Chapter 1 story missions.", "Keep a manual save at the start of the chapter."]
   },
   {
    "id": 4,
    "name": "T**s Ass Drug Money",
    "description": "Complete Chapter 2.",
    "grade": "bronze",
-   "guide": "Finish Chapter 2."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Chapter 2 is where the map opens up: character switching between Jason and Lucia becomes available here, and most of the free-roam list unlocks from this point. Just play the chapter through to its end. Source: official description (Exophase, PSNProfiles); Output Lag on switching opening in Chapter 2.",
+   "steps": ["Finish all Chapter 2 story missions.", "Use the chapter to start free-roam trophies once switching opens."]
   },
   {
    "id": 5,
    "name": "Vice City, Baby!",
    "description": "Complete Chapter 3.",
    "grade": "bronze",
-   "guide": "Finish Chapter 3."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Play Chapter 3 through to the end. Two things worth doing while you are here: the Chapter 3 race against Yago is time-sensitive (it carries an hourglass icon) and its strand counts toward Strangers & Freaks, so save first and race the moment it appears; and the mission Yasmani's Jewelry Jobs hands you the Snap Gun, which opens the Sneakthief robbery. Source: official description (Exophase, PSNProfiles); Output Lag on the Yago race and the Snap Gun.",
+   "steps": ["Finish all Chapter 3 story missions.", "Race Yago the moment the time-sensitive race appears.", "Pick up the Snap Gun in Yasmani's Jewelry Jobs."]
   },
   {
    "id": 6,
    "name": "Top Of The World, Ma",
    "description": "Complete Chapter 4.",
    "grade": "bronze",
-   "guide": "Finish Chapter 4."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Finish Chapter 4. Near the end of this chapter the optional mission That's Where The Money Is unlocks bank vaults, which feeds Maximum Withdrawal and Hot Together, so take that mission when it shows up. Source: official description (Exophase, PSNProfiles); Output Lag on the vault mission arriving near the end of Chapter 4.",
+   "steps": ["Finish all Chapter 4 story missions.", "Take the optional mission That's Where The Money Is when it appears."]
   },
   {
    "id": 7,
    "name": "You Gotta Know When to Get Off",
    "description": "Complete the final mission.",
    "grade": "gold",
-   "guide": "Finish the final mission (gold)."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "The gold trophy for finishing the story. Before you start the final mission, make a manual save you never overwrite — it is your way back if you want to mop up anything story-adjacent. After the credits, everything outside the story stays available, and the 100% checklist appears under Progress, Stats, 100% Completion. Source: official description (Exophase, PSNProfiles); Output Lag on the post-credits checklist and keeping a pre-finale save.",
+   "steps": ["Make a manual save before the final mission.", "Complete the final mission."]
   },
   {
    "id": 8,
    "name": "Trust",
    "description": "Complete Breakfast Run.",
    "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "sources": ["Exophase", "PSNProfiles"],
+   "guide": "Finish the story mission Breakfast Run. Story missions cannot be replayed, but this one is on the main path, so it pops as you play through — no special preparation needed. Source: the official description, as listed by Exophase and PSNProfiles.",
+   "steps": ["Complete the mission Breakfast Run."]
   },
   {
    "id": 9,
    "name": "Break the Bank",
    "description": "Complete The Cartel Heist.",
    "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "sources": ["Exophase", "PSNProfiles"],
+   "guide": "Finish the story mission The Cartel Heist. It sits on the main story path, so it unlocks naturally as you play; nothing about it can be missed. Source: the official description, as listed by Exophase and PSNProfiles.",
+   "steps": ["Complete the mission The Cartel Heist."]
   },
   {
    "id": 10,
    "name": "Family Matters",
    "description": "Complete Child's Play.",
    "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "sources": ["Exophase", "PSNProfiles"],
+   "guide": "Finish the story mission Child's Play. Another main-path mission trophy: play the story and it pops on its own. Source: the official description, as listed by Exophase and PSNProfiles.",
+   "steps": ["Complete the mission Child's Play."]
   },
   {
    "id": 11,
    "name": "DWNFALL",
    "description": "Complete Headliners.",
    "grade": "bronze",
-   "guide": "Finish the mission Headliners."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "sources": ["Exophase", "PSNProfiles"],
+   "guide": "Finish the story mission Headliners. Main-path story trophy — it pops when the mission ends. Source: the official description, as listed by Exophase and PSNProfiles.",
+   "steps": ["Complete the mission Headliners."]
   },
   {
    "id": 12,
    "name": "Hi-Jacked",
    "description": "Complete VCIA Takedown.",
    "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "sources": ["Exophase", "PSNProfiles"],
+   "guide": "Finish the story mission VCIA Takedown, set at Vice City International Airport. It is a main-path mission, so it pops as the story passes through it. Source: the official description, as listed by Exophase and PSNProfiles.",
+   "steps": ["Complete the mission VCIA Takedown."]
   },
   {
    "id": 13,
    "name": "Snow Storm",
    "description": "Complete Operation Savage Glory.",
    "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
+   "hidden": true,
+   "kind": "story",
+   "missable": false,
+   "stage": 1,
+   "sources": ["Exophase", "PSNProfiles"],
+   "guide": "Finish the story mission Operation Savage Glory. Main-path story trophy — play the mission through and it pops. Source: the official description, as listed by Exophase and PSNProfiles.",
+   "steps": ["Complete the mission Operation Savage Glory."]
   },
   {
    "id": 14,
    "name": "A Long Road",
    "description": "Attain 100% Completion.",
    "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
-  },
+   "hidden": false,
+   "kind": "platinum",
+   "missable": false,
+   "stage": 5,
+   "count": 100,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "The hardest trophy in the list and the last one most players earn: reach 100% completion. The checklist only appears after the story, under Progress, Stats, 100% Completion, but work you did earlier still counts — Output Lag lists its demands as 300 stunts, 70 of the 80 Challenges, 200 of the 277 vehicle models, all 8 bank vaults and all 39 illegal operations, among others. Treat every other trophy as a down payment on this one and finish the checklist last. Source: official description (Exophase, PSNProfiles); Output Lag for the checklist location and its counts.",
+   "steps": ["Finish the story to reveal the 100% checklist under Progress, Stats, 100% Completion.", "Clear every checklist item: stunts, challenges, vehicles, vaults, illegal operations and more."]
+  }
+,
   {
    "id": 15,
    "name": "Cunning Stunts",
    "description": "Complete 250 Stunts.",
    "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "count": 250,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Pull off 250 stunts — stunt jumps, under-the-bridge flights, knife flights and base jumps all count, per Output Lag. Do not stop at 250: the 100% checklist wants 300, so keep jumping past this trophy instead of grinding it twice. Stunts are easiest chained while driving between other objectives. Source: official description (Exophase, PSNProfiles); Output Lag for what counts and the 300-stunt 100% target.",
+   "steps": ["Land stunt jumps, under-the-bridge and knife flights, and base jumps — any kind counts.", "Reach 250 for the trophy; keep going to 300 for 100%."]
   },
   {
    "id": 16,
    "name": "Master of None",
    "description": "Try each type of activity once.",
    "grade": "bronze",
-   "guide": "Try all 9 activity types once."
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 2,
+   "count": 9,
+   "sources": ["Exophase", "PSNProfiles"],
+   "guide": "Sample every activity type once — nine types in total, covering the game's side activities such as racing, fishing, the shooting range, arcade games and the rest. You do not need to win or master any of them, just try each one. Open the activities list in the game and tick the types off one by one. Source: official description (Exophase, PSNProfiles); the count of nine activity types is from the official trophy list.",
+   "steps": ["Try each of the 9 activity types once.", "No win or high score needed — taking part is enough."]
   },
   {
    "id": 17,
    "name": "The Shootist",
    "description": "Earn a gold medal in all Shooting Range challenges.",
    "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "count": 42,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Gold-medal all 42 Shooting Range challenges — Output Lag reports two shooting ranges sharing the 42 golds between them. This is a pure skill grind: learn each challenge's target pattern, use the weapon the range gives you, and replay a challenge until the gold time or score lands. Do a few each visit instead of all 42 in one sitting. Source: official description (Exophase, PSNProfiles); Output Lag for the 42-challenge count across two ranges.",
+   "steps": ["Visit both shooting ranges.", "Earn a gold medal in all 42 challenges."]
   },
   {
    "id": 18,
    "name": "Top Fun",
    "description": "Win a Top Fun Drone Race at every location.",
    "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "count": 14,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Win a Top Fun drone race at each of the 14 race locations. Drone racing is about smooth lines, not speed alone: cut corners where the course allows, keep the drone low through gates, and learn one course at a time rather than hopping between all 14. Source: official description (Exophase, PSNProfiles); Output Lag for the 14-location count.",
+   "steps": ["Find all 14 Top Fun drone race locations.", "Win at least one race at each."]
   },
   {
    "id": 19,
    "name": "Earn Cash, Not Kudos",
    "description": "Win 20 different races.",
    "grade": "bronze",
-   "guide": "Win 20 different races."
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "count": 20,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Win 20 different races — different courses count, not repeat wins on the same one. Street races open up as you meet the racing characters, and the Yago strand in Chapter 3 is one of them; Output Lag flags the Race Against Yago as time-sensitive, so take it the moment it appears. A fast car you know well beats a faster car you do not. Source: official description (Exophase, PSNProfiles); Output Lag on the time-sensitive Yago race.",
+   "steps": ["Win 20 different race courses.", "Take the time-sensitive Race Against Yago in Chapter 3 when it appears."]
   },
   {
    "id": 20,
    "name": "Baited My Tackle",
    "description": "Beat Cal in a fishing challenge.",
    "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 2,
+   "sources": ["Exophase", "PSNProfiles"],
+   "guide": "Challenge Cal to a fishing contest and out-fish him. Fishing challenges are decided by the weight and number of your catch in the time allowed, so keep your line in the water, watch the tension so it does not snap, and reel steadily. It pops when you beat his score. Source: the official description, as listed by Exophase and PSNProfiles.",
+   "steps": ["Find Cal and start a fishing challenge.", "Out-catch Cal before time runs out."]
   },
   {
    "id": 21,
    "name": "Stick Fiddler",
    "description": "Complete an arcade game.",
    "grade": "bronze",
-   "guide": "Finish one arcade game."
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 2,
+   "sources": ["Exophase", "PSNProfiles"],
+   "guide": "Walk into an arcade, pick any cabinet and play it to the end. Any arcade game counts, so choose the one you are best at — a short, simple game finishes fastest. Source: the official description, as listed by Exophase and PSNProfiles.",
+   "steps": ["Visit an arcade.", "Play any arcade game to completion."]
   },
   {
    "id": 22,
    "name": "Road to Rehabilitation",
    "description": "Complete the final mission for Andy.",
    "grade": "bronze",
-   "guide": "Finish Andy's last mission."
+   "hidden": true,
+   "kind": "side",
+   "missable": false,
+   "stage": 2,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Play Andy's stranger-mission strand through to its final mission. Side-story finales stay open after the credits, per Output Lag, so there is no deadline — but do not confuse Andy's strand with the eight that count toward Strangers & Freaks: Output Lag notes Andy's strand does not count toward that trophy because it has its own. Source: official description (Exophase, PSNProfiles); Output Lag on side finales staying open and on Andy's strand not counting toward Strangers & Freaks.",
+   "steps": ["Follow Andy's stranger missions to the end.", "Complete his final mission."]
   },
   {
    "id": 23,
    "name": "This Was No Boat Accident",
    "description": "Complete the final mission for Kenton.",
    "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
+   "hidden": true,
+   "kind": "side",
+   "missable": false,
+   "stage": 2,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Play Kenton's stranger-mission strand through to its final mission. Like the other side-story finales it stays available after the story ends, so take it at your own pace once his missions appear on the map. Source: official description (Exophase, PSNProfiles); Output Lag on side-story finales staying open after the credits.",
+   "steps": ["Follow Kenton's stranger missions to the end.", "Complete his final mission."]
   },
   {
    "id": 24,
    "name": "The Lone Rider",
    "description": "Complete the final mission for Billy.",
    "grade": "bronze",
-   "guide": "Finish Billy's last mission."
+   "hidden": true,
+   "kind": "side",
+   "missable": false,
+   "stage": 2,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Play Billy's stranger-mission strand through to its final mission. Billy's strand is one of the three that does not count toward Strangers & Freaks, per Output Lag — it has its own trophy instead. It stays open after the credits. Source: official description (Exophase, PSNProfiles); Output Lag on Billy's strand not counting toward Strangers & Freaks.",
+   "steps": ["Follow Billy's stranger missions to the end.", "Complete his final mission."]
   },
   {
    "id": 25,
    "name": "Strangers & Freaks",
    "description": "Complete 8 mission strands for strangers across the state of Leonida.",
    "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
+   "hidden": false,
+   "kind": "side",
+   "missable": false,
+   "stage": 2,
+   "count": 8,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Finish eight stranger-mission strands across Leonida — but not just any eight. Output Lag warns that only some questlines count: Andy's, Billy's and Tyrone's do not, because they have their own trophies. Check the trophy's progress counter after each strand you finish so you know which ones counted, and do the time-sensitive Race Against Yago in Chapter 3 the moment it appears, since that strand is one of the eight. Source: official description (Exophase, PSNProfiles); Output Lag on which strands count and on the Yago race.",
+   "steps": ["Complete stranger strands across Leonida.", "Skip Andy, Billy and Tyrone — their strands do not count.", "Do the time-sensitive Yago race in Chapter 3 when it appears.", "Check the trophy counter after each strand."]
   },
   {
    "id": 26,
    "name": "Supply & Demand",
    "description": "Complete the final mission for Randy.",
    "grade": "bronze",
-   "guide": "Finish Randy's last mission."
+   "hidden": true,
+   "kind": "side",
+   "missable": false,
+   "stage": 2,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Play Randy's stranger-mission strand through to its final mission. Side-story finales stay open after the credits, so there is no rush — pick his missions up whenever they appear on the map. Source: official description (Exophase, PSNProfiles); Output Lag on side-story finales staying open after the credits.",
+   "steps": ["Follow Randy's stranger missions to the end.", "Complete his final mission."]
   },
   {
    "id": 27,
    "name": "Spin On This!",
    "description": "Complete the final mission for Tyrone.",
    "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
+   "hidden": true,
+   "kind": "side",
+   "missable": false,
+   "stage": 2,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Play Tyrone's stranger-mission strand through to its final mission. Tyrone's strand does not count toward Strangers & Freaks, per Output Lag, because it has this trophy of its own. It stays open after the credits. Source: official description (Exophase, PSNProfiles); Output Lag on Tyrone's strand not counting toward Strangers & Freaks.",
+   "steps": ["Follow Tyrone's stranger missions to the end.", "Complete his final mission."]
   },
   {
    "id": 28,
    "name": "Positive Mental Attitude",
    "description": "Meditate at every spot across Leonida.",
    "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
+   "hidden": false,
+   "kind": "collectibles",
+   "missable": true,
+   "stage": 2,
+   "count": 18,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag", "GTABase", "PowerPyx"],
+   "guide": "THE ONLY MISSABLE TROPHY in the list, flagged by GTABase and PowerPyx: meditate at all 18 spots across Leonida, and one of them — Lucia's balcony meditation in Chapter 1 — disappears once that chapter ends. After Lucia is home, check the kitchen in the morning (a morning after the mission Down to Earth is the usual time); she heads to the balcony of Jason's house to meditate, so follow her and accept the optional task. Meditation spots show as purple icons when you are close, per Output Lag, and each outdoor spot should count twice if you meditate there with both characters, so bring your partner every time. Keep a Chapter 1 save until this pops. Source: official description (Exophase, PSNProfiles); Output Lag for the balcony scene, the purple icons and the partner tip; GTABase and PowerPyx for the missable flag.",
+   "steps": ["In Chapter 1, do Lucia's balcony meditation before the chapter ends — it cannot be redone.", "Meditate at all 18 spots; spots show as purple icons up close.", "Bring your partner: each outdoor spot counts twice with both characters.", "Keep a Chapter 1 manual save until the trophy pops."]
   },
   {
    "id": 29,
    "name": "Fair Game",
    "description": "Hunt a unique animal for Bret.",
    "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
+   "hidden": true,
+   "kind": "side",
+   "missable": false,
+   "stage": 2,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Bret Vogel's hunting questline is Jason-only, per Output Lag, and sends you after animals through target decks. A clean head or heart shot keeps the carcass pristine, which is what the hunt wants. Follow Bret's missions until the unique animal is down. Source: official description (Exophase, PSNProfiles); Output Lag on the Jason-only questline and the clean-shot advice.",
+   "steps": ["Play Bret's hunting questline as Jason.", "Track the unique animal through the target decks.", "Take a clean head or heart shot."]
   },
   {
    "id": 30,
    "name": "Don't Touch My Deck",
    "description": "Complete 3 Collectible Card sets.",
    "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
-  },
+   "hidden": false,
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 4,
+   "count": 3,
+   "sources": ["Exophase", "PSNProfiles"],
+   "guide": "Find enough collectible cards to complete three full sets. Cards are scattered across Leonida, so treat this as a long cleanup job: sweep one area at a time, mark the sets you have finished, and save the card hunt for the post-story cleanup stage when you can roam freely. Source: the official description, as listed by Exophase and PSNProfiles.",
+   "steps": ["Collect cards across Leonida.", "Complete 3 full card sets."]
+  }
+,
   {
    "id": 31,
    "name": "You WAiNKer!",
    "description": "WAiNK It at 100 locations.",
    "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
+   "hidden": false,
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 4,
+   "count": 100,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Use the WAiNK app at 100 locations across Leonida. WAiNK doubles as your vehicle scanner — Output Lag notes that scanning a vehicle with WAiNK counts as discovering it for Whip It Good — so scan traffic as you drive and the two trophies progress together. Sweep towns and landmarks methodically rather than revisiting the same streets. Source: official description (Exophase, PSNProfiles); Output Lag on WAiNK scanning counting toward vehicle discovery.",
+   "steps": ["Open the WAiNK app at 100 different locations.", "Scan vehicles as you drive — it also feeds Whip It Good."]
   },
   {
    "id": 32,
    "name": "One Last Thing",
    "description": "Complete 50 Challenges.",
    "grade": "bronze",
-   "guide": "Finish 50 challenges."
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "count": 50,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Complete 50 Challenges, listed in the game under Progress, Challenges. Many complete on their own while you play, per Output Lag, so do not grind them first — check the list after the story and pick off the 50 easiest remaining. Note the 100% checklist wants 70 of the 80, so keep going past 50. Source: official description (Exophase, PSNProfiles); Output Lag for the list location and the 70-of-80 target.",
+   "steps": ["Open Progress, Challenges to see what is left.", "Complete 50 challenges; keep going to 70 for 100%."]
   },
   {
    "id": 33,
    "name": "Hot Together",
    "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
    "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
+   "hidden": false,
+   "kind": "robbery",
+   "missable": false,
+   "stage": 3,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "With your partner beside you, build a 4-star wanted level and then lose it completely — the trophy only pops once you have left the red heat zone, not just the flashing search area, per Output Lag. The easiest setup is a bank vault job: Output Lag says vault jobs give you a 4-star wanted level straight away, so bring your partner, rob the vault, then drive out of the heat zone together. Source: official description (Exophase, PSNProfiles); Output Lag on vault jobs and on the heat-zone rule.",
+   "steps": ["Call your partner to join you.", "Get a 4-star wanted level — a bank vault job does it at once.", "Escape until you are fully out of the red heat zone."]
   },
   {
    "id": 34,
    "name": "Retail Therapy",
    "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
    "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
+   "hidden": false,
+   "kind": "robbery",
+   "missable": false,
+   "stage": 3,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Call your partner, then rob three shops in a row while the police are still chasing you. Output Lag's key warning: if the stars fade and you are only in the red heat zone, the chain breaks — so move fast between shops and do not stop to fight. The trophy can take about 30 seconds to pop after you leave the third shop, so give it a moment before hitting a fourth. Source: official description (Exophase, PSNProfiles); Output Lag for the chain rule and the delayed pop.",
+   "steps": ["Call your partner.", "Rob 3 shops in a row without the wanted level fading.", "Wait a moment after the third shop for the pop."]
   },
   {
    "id": 35,
    "name": "Whip It Good",
    "description": "Discover 100 vehicles.",
    "grade": "bronze",
-   "guide": "Discover 100 vehicles."
+   "hidden": false,
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 4,
+   "count": 100,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Discover 100 vehicles. Scanning a vehicle with the WAiNK app counts as discovering it, per Output Lag, so scan traffic as you drive and this fills up on its own. The 100% checklist wants 200 of the 277 base models, so keep scanning past 100. Source: official description (Exophase, PSNProfiles); Output Lag on WAiNK scanning and the 200-of-277 target.",
+   "steps": ["Scan vehicles with the WAiNK app as you drive.", "Discover 100 vehicles; keep going to 200 for 100%."]
   },
   {
    "id": 36,
    "name": "Gunslinger",
    "description": "Take down 5 enemies in a single use of Combat Focus.",
    "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
+   "hidden": false,
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Combat Focus is the slow-motion aim: press L3 and R3 while aiming, per Output Lag. Pick a group of gang enemies — the guards at an illegal operation are a good target — and drop five of them in one Focus with an assault rifle. Adrenaline extends Focus, so use it. If you only get four, reload and try a bigger group. Source: official description (Exophase, PSNProfiles); Output Lag for the controls, the target choice and the Adrenaline tip.",
+   "steps": ["Find a group of gang enemies, such as illegal-operation guards.", "Aim and press L3 and R3 for Combat Focus.", "Take down 5 enemies in that one Focus."]
   },
   {
    "id": 37,
    "name": "Catch Me If You Can",
    "description": "Make an unscheduled departure at VCIA.",
    "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
+   "hidden": true,
+   "kind": "freeroam",
+   "missable": false,
+   "stage": 3,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "At Vice City International Airport, steal a large passenger plane docked at a boarding bridge — Output Lag says the planes at gates E3 and E4 work, and planes parked elsewhere on the airfield do not count. Go up to the cockpit, back out toward the runway and take off. The trophy is delayed: fly about 1 km away from the airport and it pops. Save first, because the police come fast. Source: official description (Exophase, PSNProfiles); Output Lag for the gates, the 1 km delay and the save warning.",
+   "steps": ["Go to VCIA and find a passenger plane at gates E3 or E4.", "Board it, back out to the runway and take off.", "Fly about 1 km from the airport for the pop."]
   },
   {
    "id": 38,
    "name": "Challenging Tank",
    "description": "Kinda hot in these Rhinos.",
    "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
+   "hidden": true,
+   "kind": "freeroam",
+   "missable": false,
+   "stage": 3,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Get into a military tank — a Rhino. Output Lag reports tanks parked on the south side of Mile Zero Air Station, on the island at the far southwest of the map. Save first, get in, and drive and fire until it pops. Source: official description (Exophase, PSNProfiles); Output Lag for the tank location.",
+   "steps": ["Go to Mile Zero Air Station, south side, far southwest of the map.", "Climb into a Rhino tank.", "Drive and fire until the trophy pops."]
   },
   {
    "id": 39,
    "name": "Sneakthief",
    "description": "Rob a jewelry store without being detected.",
    "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
+   "hidden": false,
+   "kind": "robbery",
+   "missable": false,
+   "stage": 3,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "The Chapter 3 mission Yasmani's Jewelry Jobs gives you the Snap Gun and opens jewelry store robberies, per Output Lag. Go to a store's locked back door and use the Snap Gun on it — kicking the door in sets off the alarm. Inside the back room, find the note with the safe code, open the safe, and leave without being seen. Richardson Jewelry & Diamonds in Vice City is a good target. If someone spots you, reload rather than push on. Source: official description (Exophase, PSNProfiles); Output Lag for the Snap Gun, the method and the target store.",
+   "steps": ["Get the Snap Gun from Yasmani's Jewelry Jobs in Chapter 3.", "Use it on a jewelry store's locked back door.", "Find the safe code note, open the safe, leave unseen."]
   },
   {
    "id": 40,
    "name": "Maximum Withdrawal",
    "description": "Rob 5 Bank Vaults and escape.",
    "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
+   "hidden": false,
+   "kind": "robbery",
+   "missable": false,
+   "stage": 3,
+   "count": 5,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Rob five bank vaults and escape each one. Bank vaults unlock through That's Where The Money Is, an optional mission near the end of Chapter 4: tail an armored security van to a large bank and get into the vault while the guard has it open, per Output Lag. You cannot carry all the bags alone, so bring your partner — and since a vault job gives you a 4-star wanted level at once, escaping one with your partner also earns Hot Together. The 100% checklist needs all eight vaults. Source: official description (Exophase, PSNProfiles); Output Lag for the unlock mission, the partner tip and the eight-vault 100% target.",
+   "steps": ["Unlock vaults with That's Where The Money Is near the end of Chapter 4.", "Bring your partner — you cannot carry all the bags alone.", "Rob 5 vaults and escape; keep going to 8 for 100%."]
   },
   {
    "id": 41,
    "name": "A Classic Blitz Play",
    "description": "Rob an Armored Truck and escape.",
    "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
+   "hidden": false,
+   "kind": "robbery",
+   "missable": false,
+   "stage": 3,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Rob an armored truck and get away with it. Armored trucks run set routes through the city — block one, deal with its guards, take the cash and escape before the police box you in. Like Hot Together, this only pops once you have left the red heat zone, per Output Lag, so keep driving until the heat is fully gone. Source: official description (Exophase, PSNProfiles); Output Lag on the heat-zone pop rule.",
+   "steps": ["Find and stop an armored truck.", "Take the cash.", "Escape until fully out of the red heat zone."]
   },
   {
    "id": 42,
    "name": "The Goodtime State",
    "description": "Explore all of Leonida.",
    "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
+   "hidden": false,
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 4,
+   "count": 52,
+   "sources": ["Exophase", "PSNProfiles"],
+   "guide": "Explore all 52 areas of Leonida. This is a map-coverage trophy: drive, fly and walk into every named area until the map is filled in. Pair it with the WAiNK and vehicle-discovery sweeps so one trip covers several trophies at once. Source: official description (Exophase, PSNProfiles); the 52-area count is from the official trophy list.",
+   "steps": ["Visit every named area of Leonida.", "All 52 areas must register as explored."]
   },
   {
    "id": 43,
    "name": "Pest Control",
    "description": "Rob an Illegal Operation belonging to each gang.",
    "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
+   "hidden": false,
+   "kind": "robbery",
+   "missable": false,
+   "stage": 3,
+   "count": 9,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Rob one illegal operation belonging to each of the nine gangs. The 100% checklist wants all 39 operations, per Output Lag, so this trophy pops along the way to that bigger grind — do not stop at nine if you are chasing the platinum. Note that operations you leave unfinished come back later, so a botched raid is not a lost trophy. Source: official description (Exophase, PSNProfiles); Output Lag for the nine-gang count and the 39-operation 100% target.",
+   "steps": ["Rob one illegal operation per gang — nine gangs in total.", "Keep going to all 39 operations for 100%."]
   },
   {
    "id": 44,
    "name": "In The Beginning…",
    "description": "Enjoy a cocktail with a view on Ocean Beach.",
    "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
+   "hidden": true,
+   "kind": "freeroam",
+   "missable": false,
+   "stage": 3,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "The description is the whole clue: have a cocktail with a view on Ocean Beach. Output Lag lists this among the five hidden trophies with no confirmed trigger yet, so there is no verified method — head to a beachfront bar on Ocean Beach, order a cocktail, and enjoy the view; it should pop while you play normally. Source: official description (Exophase, PSNProfiles); Output Lag for the unconfirmed-trigger warning.",
+   "steps": ["Go to a beachfront bar on Ocean Beach.", "Order a cocktail with the view in front of you."]
   },
   {
    "id": 45,
    "name": "Capital Offense",
    "description": "Smash your way out of a vehicle showroom in classic style.",
    "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
-  },
+   "hidden": true,
+   "kind": "freeroam",
+   "missable": false,
+   "stage": 3,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Drive a car through a vehicle showroom's front window — the classic GTA exit. Output Lag lists this among the five hidden trophies with no confirmed trigger yet, so the exact showroom and approach are unverified: pick a showroom, build speed outside, and smash straight out through the glass. Source: official description (Exophase, PSNProfiles); Output Lag for the unconfirmed-trigger warning.",
+   "steps": ["Find a vehicle showroom.", "Drive a car out through the showroom front, in classic style."]
+  }
+,
   {
    "id": 46,
    "name": "Let’s Go Bowling",
    "description": "Follow-through at the Kolt & Associates' bowling alley.",
    "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
+   "hidden": true,
+   "kind": "freeroam",
+   "missable": false,
+   "stage": 3,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "The Kolt & Associates bowling alley is Kingpin Bowling, an illegal operation you visit in Chapter 2, per Output Lag. Bring Sticky Bombs and take all three key valuables: the luxury watch in an office, the shotgun on a table, and the contents of the office safe, which you blow open with a Sticky Bomb. Then escape the police. If you leave something behind, the operation comes back later, so it is not missable. Source: official description (Exophase, PSNProfiles); Output Lag for the alley's identity, the three valuables and the return rule.",
+   "steps": ["Visit Kingpin Bowling in Chapter 2.", "Bring Sticky Bombs.", "Take the watch, the shotgun and the office safe contents, then escape."]
   },
   {
    "id": 47,
    "name": "Personal Best",
    "description": "A partnership with mass appeal.",
    "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
+   "hidden": true,
+   "kind": "freeroam",
+   "missable": false,
+   "stage": 3,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "This one is about training together: Output Lag reports it should pop when Jason and Lucia both reach maximum Strength. Buy a gym membership and train with your partner there, since the partner trains alongside you. It is a slow build, so fold gym sessions into your routine between missions rather than grinding it in one go. Source: official description (Exophase, PSNProfiles); Output Lag for the max-Strength method and the partner-training tip.",
+   "steps": ["Buy a gym membership.", "Train with your partner until both reach maximum Strength."]
   },
   {
    "id": 48,
    "name": "Actions Speak Louder",
    "description": "Choices made (for better or worse).",
    "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
+   "hidden": true,
+   "kind": "freeroam",
+   "missable": false,
+   "stage": 4,
+   "count": 500,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Make 500 choices that change your Criminal Profile. Robberies and fights feed it, per Output Lag, so it fills up without a separate grind — just play the game the way the other trophies ask you to and this pops on its own. Source: official description (Exophase, PSNProfiles); Output Lag for the 500-action count and what feeds it.",
+   "steps": ["Play normally — robberies and fights feed your Criminal Profile.", "Reach 500 profile-changing actions."]
   },
   {
    "id": 49,
    "name": "Bad Luck, I Guess",
    "description": "Second time's the charm.",
    "grade": "bronze",
-   "guide": "Succeed on a second try."
+   "hidden": true,
+   "kind": "freeroam",
+   "missable": false,
+   "stage": 3,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "The description hints at succeeding on a second try — a hidden second-chance event. Output Lag lists this among the five hidden trophies with no confirmed trigger yet, so no method is verified: it should pop while you play normally, most likely when something you failed once works the second time around. Source: official description (Exophase, PSNProfiles); Output Lag for the unconfirmed-trigger warning.",
+   "steps": ["Play normally; the trophy is tied to a second-chance moment.", "If something fails once, try it again right away."]
   },
   {
    "id": 50,
    "name": "The Truth Is Out There",
    "description": "What the hell just happened?",
    "grade": "bronze",
-   "guide": "Witness something strange."
+   "hidden": true,
+   "kind": "freeroam",
+   "missable": false,
+   "stage": 3,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Witness something strange — the description reads like a UFO or weird-encounter moment. Output Lag lists this among the five hidden trophies with no confirmed trigger yet, so the exact encounter is unverified: explore Leonida's odd corners, especially at night, and it should pop when you stumble into it. Source: official description (Exophase, PSNProfiles); Output Lag for the unconfirmed-trigger warning.",
+   "steps": ["Explore Leonida's unusual places, especially at night.", "The trophy pops when the strange encounter happens."]
   },
   {
    "id": 51,
    "name": "Ten Pin",
    "description": "Bowl 'em over with a melee drive-by.",
    "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
+   "hidden": true,
+   "kind": "freeroam",
+   "missable": false,
+   "stage": 3,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Knock someone down with a melee drive-by — strike a target with a melee weapon from a moving vehicle. Output Lag lists this among the five hidden trophies with no confirmed trigger yet, so the precise method is unverified: drive slowly past a pedestrian, lean out and land the melee hit. Source: official description (Exophase, PSNProfiles); Output Lag for the unconfirmed-trigger warning.",
+   "steps": ["Get a melee weapon and a car.", "Drive past a target and land a melee drive-by hit."]
   },
   {
    "id": 52,
    "name": "Dime on the Dollar",
    "description": "Earn $250,000 laundering Marked Bills through your contacts.",
    "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
+   "hidden": false,
+   "kind": "money",
+   "missable": false,
+   "stage": 4,
+   "count": 250000,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Launder a cumulative $250,000 of Marked Bills through your contacts. Marked bills come from bank and payday loan jobs, per Output Lag, and are laundered by selling them to your contacts — the total is cumulative, so bank vaults and loan jobs you do for other trophies feed it. Source: official description (Exophase, PSNProfiles); Output Lag for where marked bills come from and how they are laundered.",
+   "steps": ["Do bank and payday loan jobs to collect Marked Bills.", "Sell the bills to your contacts.", "Reach a cumulative $250,000 laundered."]
   },
   {
    "id": 53,
    "name": "Treat Yo Self",
    "description": "Spend $100,000 across all shops.",
    "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
+   "hidden": false,
+   "kind": "money",
+   "missable": false,
+   "stage": 4,
+   "count": 100000,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Spend a cumulative $100,000 across all shops. Every kind of shop counts, per Output Lag, so buy weapons, clothes, cars and upgrades as you go and the total climbs on its own. By the time you have bought the eight garages for Little Boxes you are most of the way there. Source: official description (Exophase, PSNProfiles); Output Lag on the cumulative, all-shops rule.",
+   "steps": ["Spend across any shops — weapons, clothes, cars, upgrades all count.", "Reach a cumulative $100,000 spent."]
   },
   {
    "id": 54,
    "name": "Little Boxes",
    "description": "Purchase all garage properties.",
    "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
+   "hidden": false,
+   "kind": "money",
+   "missable": false,
+   "stage": 4,
+   "count": 8,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Buy the eight garages in the Vice City Real Estate app, which unlocks after the Chapter 2 mission Daily Driver, per Output Lag. Together they cost about $160,000, and garages the story gives you do not count. Buy them before you start registering cars for On the Spot, since each car needs a free garage space. Source: official description (Exophase, PSNProfiles); Output Lag for the app, the unlock mission, the cost and the garage-space rule.",
+   "steps": ["Finish the Chapter 2 mission Daily Driver to unlock the Real Estate app.", "Buy all 8 garages (about $160,000 in total)."]
   },
   {
    "id": 55,
    "name": "On the Spot",
    "description": "Register 10 vehicles to the Scooter Bros app.",
    "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
+   "hidden": false,
+   "kind": "money",
+   "missable": false,
+   "stage": 4,
+   "count": 10,
+   "sources": ["Exophase", "PSNProfiles", "Output Lag"],
+   "guide": "Register ten vehicles to the Scooter Bros app. The Chapter 2 mission Moses opens the app: take a stolen car to Moses, choose Respray, then Register, per Output Lag. From Chapter 3 you can also register cars with a standard tracker at Pay 'n' Spray. Each car needs a free garage space, so buy garages first, and register cheap cars you steal rather than cars you paid for. Source: official description (Exophase, PSNProfiles); Output Lag for the Moses mission, the Pay 'n' Spray option and the garage-space rule.",
+   "steps": ["Open the Scooter Bros app via the Chapter 2 mission Moses.", "Take a stolen car to Moses: Respray, then Register.", "Register 10 vehicles — each needs a free garage space."]
   }
  ]
 }
